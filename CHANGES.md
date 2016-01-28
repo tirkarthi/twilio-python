@@ -40,6 +40,13 @@ Released November 25, 2015:
 
 - Adds support for python 3.5.
 
+Version 4.9.2
+-------------
+
+Released November 25, 2015:
+
+- Fix for SIP Trunking bug
+
 Version 5.0.1-edge
 -------------
 
@@ -75,7 +82,7 @@ Released November 2, 2015:
 
 - Add SMS pricing endpoint
 
-Version 4.6.0-edge
+Version 4.6.0
 -------------
 
 Released October 28, 2015:
