@@ -3,6 +3,14 @@ twilio-python Changelog
 
 Here you can see the full list of changes between each twilio-python release.
 
+Version 6.3.0-edge
+-------------
+
+Released January 28, 2016:
+
+- Add support for filter_friendly_name in WorkflowConfig
+- Load reservations by default in TaskRouter
+
 Version 6.2.0-edge
 -------------
 
