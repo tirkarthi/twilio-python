@@ -6,7 +6,7 @@ python:
   - "3.5"
   - "3.6"
 install:
-  - pip install virtualenv
+  - pip install virtualenv==15.2.0
   - make install
   - make test-install
 script:
